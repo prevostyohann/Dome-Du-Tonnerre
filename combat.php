@@ -33,7 +33,7 @@
 
 include "./autoLoader.php";
 
-// Fonction pour créer un personnage basé sur le choix
+// Fonction pour créer un personnage basé sur le choix  
 function creerPersonnage($type, $name) {
     switch ($type) {
         case 'Elfe':
